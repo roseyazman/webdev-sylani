@@ -1,0 +1,17 @@
+this is my first file 
+
+
+commands
+git clone url
+
+code .
+
+
+git config --global user.name "roseyazman"
+git config --global user.email "roseyazman@gmail.com"
+
+git add *
+
+git commit -m "my first file"
+
+git push
