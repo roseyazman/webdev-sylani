@@ -2,7 +2,7 @@ this is my first file
 
 
 commands
-git clone url
+git clone paste-link-of-url-from-github
 
 code .
 
