@@ -9,8 +9,8 @@ cd name-of-clone-directory
 code .
 
 
-git config --global user.name "roseyazman"
-git config --global user.email "roseyazman@gmail.com"
+git config --global user.name "username"
+git config --global user.email "user-email"
 
 git add *
 
