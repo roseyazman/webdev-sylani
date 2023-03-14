@@ -4,6 +4,8 @@ this is my first file
 commands
 git clone paste-link-of-url-from-github
 
+cd name-of-clone-directory
+
 code .
 
 
