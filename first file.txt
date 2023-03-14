@@ -17,3 +17,7 @@ git add *
 git commit -m "my first file"
 
 git push
+
+commands of cmd
+cd name-of-directory
+cd.. (to go to previous directory)
